@@ -19,8 +19,8 @@ I am a simple Image Editor Bot
 © @m2botz"""
     ABOUT_MSG = """⭕️<b>My Name : Image Editor</b>
 
-⭕️<b>Language :</b> <code>English</code>
+⭕️<b>Creator :</b> <code>M2BOTZ</code>
 
-⭕️<b>Channel :</b> 👉 <a href='https://t.me/m2botz'>M2BOTZ</a>
+⭕️<b>Channel :</b> 👉 <a href='https://t.me/m2botz'>Join</a>
 
-⭕️<b>Support Group :</b> 👉 <a href='https://t.me/m2botzsupport'>Support</a>"""
+⭕️<b>Support Group :</b> 👉 <a href='https://t.me/m2botzsupport'>Join</a>"""
