@@ -2,9 +2,11 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-I'm a Image Editor Bot which Supports various modes
+I am a simple Image Editor Bot
 
-For more click help....</b>"""
+>>Please send an image, I can edit your image to desired mode.
+
+👲 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : @m2botz </b>"""
     HELP_MSG = """Hai, Follow these Steps..
 
 <code>🌀 Send me any Image to Edit..</code>
@@ -14,11 +16,11 @@ For more click help....</b>"""
 <code>🌀 Your Edited Image will be Uploaded </code>
 
 
-© @TroJanzHEX"""
+© @m2botz"""
     ABOUT_MSG = """⭕️<b>My Name : Image Editor</b>
 
-⭕️<b>Language :</b> <code>Python3</code>
+⭕️<b>Language :</b> <code>English</code>
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a>
+⭕️<b>Channel :</b> 👉 <a href='https://t.me/m2botz'>M2BOTZ</a>
 
-⭕️<b>Source Code :</b> 👉 <a href='https://github.com/TroJanzHEX/Image-Editor'>Click Here</a>"""
+⭕️<b>Support Group :</b> 👉 <a href='https://t.me/m2botzsupport'>Support</a>"""
